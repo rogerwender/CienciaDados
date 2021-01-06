@@ -1,2 +1,3 @@
 # CientistaDeDados
-Material de estudo para Cientista de Dados
+Material de estudo para Cientista de Dado
+1 - Python
