@@ -18,15 +18,15 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+# Tutoriais em Python:
 
-* **Comandos básicos de python:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb
-* **Laços de repetição em python:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/2-La%C3%A7osRepeti%C3%A7%C3%A3o.ipynb
-* **Listas em python:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Comandos básicos:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb
+* **Laços de repetição:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/2-La%C3%A7osRepeti%C3%A7%C3%A3o.ipynb
+* **Listas:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/3-Listas-.ipynb
+* **Dicionarios:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/4-Dicionarios.ipynb
+* **Funções:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/5-Fun%C3%A7%C3%B5es.ipynb
+* **Manipulando arquivos:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb
+* **ScipyNumpy:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ScipyNumpy.ipynb
 
 ---
 
