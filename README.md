@@ -14,13 +14,11 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Comandos básicos de python:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb
 * **Laços de repetição em python:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/2-La%C3%A7osRepeti%C3%A7%C3%A3o.ipynb
