@@ -1,5 +1,6 @@
-[![(https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
+[![aaaaa](https://img.shields.io/badge/python-3.7+-blue.svg)]
+[![teste](https://www.python.org/downloads/release/python-365/)]
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]
 
 <p align="center">
   <img src="banner.png" >
@@ -8,12 +9,7 @@
 ## Novos Cientistas de Dados
 <sub>*Aqui neste git você encontra diversas informações para se tornar um cientista de dados!*</sub>
 
-
-
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
-
-
-
 
 # Tutoriais em Python:
 
