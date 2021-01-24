@@ -6,7 +6,7 @@
 </p>
 
 ## Novos Cientistas de Dados
-<sub>*Aqui neste git você encontra diversas informações para se tornar um cientista de dados*</sub>
+<sub>*Aqui neste git você encontra diversas informações para se tornar um cientista de dados!*</sub>
 
 
 
