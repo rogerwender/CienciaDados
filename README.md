@@ -5,7 +5,7 @@
 </p>
 
 # Novos Cientistas de Dados
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Aqui neste git você encontra diversas informações para se tornar um cientista de dados* at Space Operations Center</sub>
 
 
 
