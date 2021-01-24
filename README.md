@@ -18,7 +18,6 @@
 ## Projetos:
 # Tutoriais em Python:
 
-**Comandos básicos:** 
 * [Comandos Basicos](https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb)
 
 * **Laços de repetição:** https://github.com/rogerwender/CientistaDeDados/blob/main/python/2-LacosRepeticao.ipynb
