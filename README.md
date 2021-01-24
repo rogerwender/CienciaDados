@@ -19,7 +19,6 @@
 # Tutoriais em Python:
 
 * [Comandos Basicos](https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb)
-
 * [Laços de repetição](https://github.com/rogerwender/CientistaDeDados/blob/main/python/2-LacosRepeticao.ipynb)
 * [Listas](https://github.com/rogerwender/CientistaDeDados/blob/main/python/3-Listas-.ipynb)
 * [Dicionarios](https://github.com/rogerwender/CientistaDeDados/blob/main/python/4-Dicionarios.ipynb)
