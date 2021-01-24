@@ -4,18 +4,16 @@
   <img src="banner.png" >
 </p>
 
-# Novos Cientistas de Dados
+## Novos Cientistas de Dados
 <sub>*Aqui neste git você encontra diversas informações para se tornar um cientista de dados*</sub>
 
 
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
 
 
-## Projetos:
+
 # Tutoriais em Python:
 
 * [Comandos Basicos](https://github.com/rogerwender/CientistaDeDados/blob/main/python/1-ConceitosBasicos.ipynb)
@@ -26,6 +24,9 @@
 * [Manipulando arquivos]( https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb)
 * ScipyNumpy:
 
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
 ---
 
 
