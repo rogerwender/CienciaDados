@@ -17,7 +17,8 @@
 * [Dicionarios](https://github.com/rogerwender/CientistaDeDados/blob/main/python/4-Dicionarios.ipynb)
 * [Funções](https://github.com/rogerwender/CientistaDeDados/blob/main/python/5-Fun%C3%A7%C3%B5es.ipynb)
 * [Manipulando arquivos]( https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb)
-* ScipyNumpy:
+
+# Analise Preditiva
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
