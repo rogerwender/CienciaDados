@@ -2,7 +2,7 @@
 
 
 # Análise Preditiva
-* [Prevendo Fadiga de Funcionarios](https://github.com/rogerwender/CientistaDeDados/blob/24f9fd1b75b2866818387be471e9e00038d64103/Prevendo_Fadiga_de_Funcion%C3%A1rios.ipynb)
+* [Prevendo a fadiga de Funcionários](https://github.com/rogerwender/CientistaDeDados/blob/24f9fd1b75b2866818387be471e9e00038d64103/Prevendo_Fadiga_de_Funcion%C3%A1rios.ipynb)
 
 
 
