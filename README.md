@@ -16,6 +16,9 @@
 * [Manipulando arquivos]( https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb)
 
 # Analise Preditiva
+https://github.com/rogerwender/CientistaDeDados/blob/24f9fd1b75b2866818387be471e9e00038d64103/Prevendo_Fadiga_de_Funcion%C3%A1rios.ipynb
+
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
