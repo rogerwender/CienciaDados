@@ -1,10 +1,7 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 
-## Ciência de Dados
-
-
-# Analise Preditiva
+# Análise Preditiva
 * [Prevendo Fadiga de Funcionarios](https://github.com/rogerwender/CientistaDeDados/blob/24f9fd1b75b2866818387be471e9e00038d64103/Prevendo_Fadiga_de_Funcion%C3%A1rios.ipynb)
 
 
@@ -24,8 +21,4 @@
 **Meu LinkedIn**
 * [LinkedIn](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
 ---
-
-
-
-
 
