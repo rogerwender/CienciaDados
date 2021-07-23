@@ -4,7 +4,7 @@
 # Análise Preditiva
 * [Prevendo a fadiga de Funcionários](https://github.com/rogerwender/CientistaDeDados/blob/24f9fd1b75b2866818387be471e9e00038d64103/Prevendo_Fadiga_de_Funcion%C3%A1rios.ipynb)
 
-
+* [Sistema de recomendação de Livros](https://github.com/rogerwender/CienciaDados/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o_de_Livros.ipynb)
 
 # Tutoriais em Python:
 
