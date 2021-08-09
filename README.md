@@ -15,6 +15,7 @@
 * [Manipulando arquivos]( https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb)
 * [Tradutor em Python](https://github.com/rogerwender/DataScience/blob/main/TradutorEmPython.ipynb)
 * [Web Scraping](https://github.com/rogerwender/DataScience/blob/main/WebScraping.ipynb)
+* [Operadora Telefone](https://github.com/rogerwender/DataScience/blob/main/OperadoraTelefone.ipynb)
 
 
 # Meu LinkedIn
