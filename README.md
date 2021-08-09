@@ -13,6 +13,7 @@
 * [Dicionários](https://github.com/rogerwender/CientistaDeDados/blob/main/python/4-Dicionarios.ipynb)
 * [Funções](https://github.com/rogerwender/CientistaDeDados/blob/main/python/5-Fun%C3%A7%C3%B5es.ipynb)
 * [Manipulando arquivos]( https://github.com/rogerwender/CientistaDeDados/blob/main/python/6-ManipulandoArquivos.ipynb)
+* [Tradutor em Python](https://github.com/rogerwender/DataScience/blob/main/TradutorEmPython.ipynb)
 
 
 
