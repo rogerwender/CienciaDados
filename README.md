@@ -18,7 +18,7 @@
 
 
 
-**Meu LinkedIn**
+*Meu LinkedIn*
 * [RogerioWender](https://www.linkedin.com/in/rogerio-wender-4b9179193/)
 ---
 
