@@ -16,6 +16,7 @@
 * [Tradutor em Python](https://github.com/rogerwender/DataScience/blob/main/TradutorEmPython.ipynb)
 * [Web Scraping](https://github.com/rogerwender/DataScience/blob/main/WebScraping.ipynb)
 * [Operadora Telefone](https://github.com/rogerwender/DataScience/blob/main/OperadoraTelefone.ipynb)
+* [Gerar QRCode](https://github.com/rogerwender/DataScience/blob/main/GerarQRCode.ipynb)
 
 
 # Meu LinkedIn
