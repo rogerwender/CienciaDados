@@ -97,8 +97,8 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<h1 align="center" width="250">
-	<img src='PaginaEmConstrucao.png' height='150'>
+	<h1 align="center" width="950" height="550">
+	<img src='PaginaEmConstrucao.png>
 	</h1>
 
 </body>
