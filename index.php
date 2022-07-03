@@ -97,7 +97,7 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<h1 align="center" width="350" height="250">
+	<h1 align="center" width="350">
 	<img src='PaginaEmConstrucao.png>
 	</h1>
 
