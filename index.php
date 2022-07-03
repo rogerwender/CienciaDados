@@ -31,7 +31,7 @@
               <h3>Projetos em Python </h3>
               <ul>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/TradutorEmPython.ipynb'>Tradutor em Python</a></li>
-                <li><a href='#'>Contact Page No #2</a></li>
+                <li><a href='https://github.com/rogerwender/DataScience/blob/main/WebScraping.ipynb'>Web Scraping</a></li>
                 <li><a href='#'>Contact Page No #3</a></li>
                 <li><a href='#'>Contact Page No #4</a></li>
                 <li><a href='#'>Contact Page No #5</a></li>
