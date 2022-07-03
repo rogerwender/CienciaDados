@@ -12,7 +12,9 @@
 <body>
 <nav>
   <ul class="container">
-    <li><a href='#'>Home</a></li>
+    <li><a href='#'>Home</a>
+	<a href='#'>Home</a>
+    </li>
     <li class='dropdown'>
       <a href='#'>Meus Projetos <i class="fa fa-angle-down"></i></a>
       <div class='mega-menu'>
