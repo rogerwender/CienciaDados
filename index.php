@@ -13,7 +13,7 @@
 <nav>
   <ul class="container">
     <li><a href='#'>Home</a>
-	    <img src='https://github.com/rogerwender/DataScience/blob/main/PaginaEmConstrucao.png'>
+	    
     </li>
     <li class='dropdown'>
       <a href='#'>Meus Projetos <i class="fa fa-angle-down"></i></a>
@@ -96,7 +96,9 @@
   </ul><!-- .container -->
 </nav>
 	
-
+<nav>
+	<img src='https://github.com/rogerwender/DataScience/blob/main/PaginaEmConstrucao.png'>
+	</nav>
 
 </body>
 </html>
