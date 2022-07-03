@@ -97,7 +97,7 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<img src='PaginaEmConstrucao.png' align = 'center' alt='Site em construção com meus projetos desenvolvidos em Python'>
+	<img src='PaginaEmConstrucao.png'; margin:auto; width:200px>
 	
 
 </body>
