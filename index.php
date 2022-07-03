@@ -23,7 +23,7 @@
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/Prevendo_Fadiga_de_Funcionarios.ipynb'>Prevendo a fadiga de funcionarios</a></li>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/OperadoraTelefone.ipynb'>Verificar Operadora de telefone</a></li>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/GerarQRCode.ipynb'>GerarQRCode</a></li>
-                <li><a href='https://github.com/rogerwender/DataScience/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o_de_Livros.ipynb'>Sistema de Recomendacao de Livros</a></li>
+                <li><a href='https://github.com/rogerwender/DataScience/blob/main/Sistema_de_Recomendacao_de_Livros.ipynb'>Sistema de Recomendacao de Livros</a></li>
 
               </ul>
           </div> <!-- /.item -->
