@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-    <title>Menu Dropdown Horizontal - Linha de Código</title>
+    <title>Meus projetos em Python - Rogério Wender</title>
      <!-- Aqui chamamos o nosso arquivo css externo -->
     <link rel="stylesheet" type="text/css"  href="estilo.css" />
     <!--[if lte IE 8]>
