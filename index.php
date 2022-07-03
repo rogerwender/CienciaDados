@@ -96,9 +96,9 @@
   </ul><!-- .container -->
 </nav>
 	
-<nav>
+
 	<img src='PaginaEmConstrucao.png'>
-	</nav>
+	
 
 </body>
 </html>
