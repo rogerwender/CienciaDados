@@ -97,7 +97,7 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<img src='PaginaEmConstrucao.png'; margin:auto; width:200px>
+	<img src='PaginaEmConstrucao.png' width='150' height='150' align='center'>
 	
 
 </body>
