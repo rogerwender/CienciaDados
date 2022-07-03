@@ -97,7 +97,7 @@
 </nav>
 	
 <nav>
-	<img src='https://github.com/rogerwender/DataScience/blob/main/PaginaEmConstrucao.png'>
+	<img src='PaginaEmConstrucao.png'>
 	</nav>
 
 </body>
