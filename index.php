@@ -97,7 +97,7 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<img src='PaginaEmConstrucao.png' alingn = 'center'>
+	<img src='PaginaEmConstrucao.png' align = 'center'>
 	
 
 </body>
