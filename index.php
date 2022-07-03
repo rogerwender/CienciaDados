@@ -97,8 +97,8 @@
 </nav>
 	
 <br><br><br><br><br><br>
-	<h1 align="right"> Estou na direita! 
-	<img src='PaginaEmConstrucao.png' width='150' height='150' align='center'>
+	<h1 align="center" width="250">
+	<img src='PaginaEmConstrucao.png' height='150'>
 	</h1>
 
 </body>
