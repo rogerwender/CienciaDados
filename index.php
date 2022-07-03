@@ -18,7 +18,7 @@
       <div class='mega-menu'>
         <div class="container">
           <div class="item">
-              <h3>Pagina Principal</h3>
+              <h3>Projetos em Python</h3>
               <ul>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/Prevendo_Fadiga_de_Funcionarios.ipynb'>Prevendo a fadiga de funcionarios</a></li>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/OperadoraTelefone.ipynb'>Verificar Operadora de telefone</a></li>
@@ -28,9 +28,9 @@
               </ul>
           </div> <!-- /.item -->
           <div class="item">
-              <h3>Contatos</h3>
+              <h3>Projetos em Python </h3>
               <ul>
-                <li><a href='#'>Contact Page No #1</a></li>
+                <li><a href='https://github.com/rogerwender/DataScience/blob/main/TradutorEmPython.ipynb'>Tradutor em Python</a></li>
                 <li><a href='#'>Contact Page No #2</a></li>
                 <li><a href='#'>Contact Page No #3</a></li>
                 <li><a href='#'>Contact Page No #4</a></li>
