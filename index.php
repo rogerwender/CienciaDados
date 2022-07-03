@@ -22,7 +22,7 @@
               <h3>Home Page</h3>
               <ul>
                 <li><a href='https://github.com/rogerwender/DataScience/blob/main/Prevendo_Fadiga_de_Funcionarios.ipynb'>Prevendo a fadiga de funcionarios</a></li>
-                <li><a href='#'>Home Page No #2</a></li>
+                <li><a href='DataScience/OperadoraTelefone.ipynb'>Operadora de telefone</a></li>
                 <li><a href='#'>Home Page No #3</a></li>
                 <li><a href='#'>Home Page No #4</a></li>
 
