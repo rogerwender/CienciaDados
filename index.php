@@ -96,8 +96,8 @@
   </ul><!-- .container -->
 </nav>
 	
-
-	<img src='PaginaEmConstrucao.png'>
+<br><br><br><br><br><br>
+	<img src='PaginaEmConstrucao.png' alingn = 'center'>
 	
 
 </body>
